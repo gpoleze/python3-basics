@@ -1,0 +1,18 @@
+#### OS generated files ####
+.DS_Store
+.DS_Store?
+---------------------------------
+
+#### Intellij Generated Config files #### 
+.idea/
+*.iml
+---------------------------------
+
+#### Sublime Project Files ####
+*.sublime-project
+*.sublime-workspace
+---------------------------------
+
+#### Python Cache Files ####
+*.pyc
+---------------------------------

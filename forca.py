@@ -42,7 +42,7 @@ def jogar():
 
         index = 0
         for letra in palavra_secreta:
-            if (chute.upper() == letra.upper()):
+            if (chute == letra):
                 letras_acertadas[index] = letra
             index = index + 1
 
